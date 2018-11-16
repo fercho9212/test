@@ -12,6 +12,7 @@
     <script src="main.js"></script>
 </head>
 <body>
-$conn;
+<h1>jskjsjkkasjkkasks</h1>
+<?php echo $conn;?>
 </body>
 </html>
